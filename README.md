@@ -1,7 +1,7 @@
 # The-Don
 ***My personal repository***
 # About me
-My name is Quan Nguyen. You can call me Michael :scream_cat:
+My name is Quan Nguyen. You can call me Donald or Don :scream_cat:
 <br/> Just finished grade 11 in VNU-HCM High school for the Gifted :raised_hands:
 <br/> I love maths & coding. Proficient in C++ and Python. Willing to learn other languages.
 <br/> Also interested in education & psychology :vulcan_salute: 
